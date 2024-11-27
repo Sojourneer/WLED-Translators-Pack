@@ -1,3 +1,6 @@
+Incomplete but in active development, in particular the Proxy.   
+A patched version to to the WLED Web Server (https://github.com/Sojourneer/ESPAsyncWebServer.git) is required for full functionality.
+
 # WLED Translators Pack
 
 The WLED Translator's Pack repository provides the tools for Internationalizing and Translating WLED.
